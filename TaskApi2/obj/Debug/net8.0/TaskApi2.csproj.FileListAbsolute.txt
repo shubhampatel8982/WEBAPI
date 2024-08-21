@@ -1,0 +1,276 @@
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.csproj.AssemblyReference.cache
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.AssemblyInfoInputs.cache
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.AssemblyInfo.cs
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.csproj.CoreCompileInputs.cache
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.MvcApplicationPartsAssemblyInfo.cs
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.MvcApplicationPartsAssemblyInfo.cache
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\appsettings.Development.json
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\appsettings.json
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\TaskApi2.exe
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\TaskApi2.deps.json
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\TaskApi2.runtimeconfig.json
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\TaskApi2.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\TaskApi2.pdb
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Azure.Core.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Azure.Identity.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Humanizer.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.CodeDom.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Memory.Data.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\TaskData.dll
+H:\Shubham_Patel_Assignments\TaskApi2\bin\Debug\net8.0\TaskData.pdb
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\staticwebassets.build.json
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\staticwebassets.development.json
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\staticwebassets\msbuild.TaskApi2.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskApi2.props
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskApi2.props
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskApi2.props
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\scopedcss\bundle\TaskApi2.styles.css
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.csproj.Up2Date
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.dll
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\refint\TaskApi2.dll
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.pdb
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\TaskApi2.genruntimeconfig.cache
+H:\Shubham_Patel_Assignments\TaskApi2\obj\Debug\net8.0\ref\TaskApi2.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\appsettings.Development.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\appsettings.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\TaskApi2.exe
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\TaskApi2.deps.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\TaskApi2.runtimeconfig.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\TaskApi2.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\TaskApi2.pdb
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Azure.Core.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Azure.Identity.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Humanizer.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.CodeDom.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Memory.Data.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\TaskData.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\bin\Debug\net8.0\TaskData.pdb
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.csproj.AssemblyReference.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.AssemblyInfoInputs.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.AssemblyInfo.cs
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.csproj.CoreCompileInputs.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.MvcApplicationPartsAssemblyInfo.cs
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.MvcApplicationPartsAssemblyInfo.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\staticwebassets.build.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\staticwebassets.development.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\staticwebassets\msbuild.TaskApi2.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskApi2.props
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskApi2.props
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskApi2.props
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\scopedcss\bundle\TaskApi2.styles.css
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.csproj.Up2Date
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\refint\TaskApi2.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.pdb
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\TaskApi2.genruntimeconfig.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskApi2\obj\Debug\net8.0\ref\TaskApi2.dll

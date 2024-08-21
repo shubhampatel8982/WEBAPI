@@ -1,0 +1,28 @@
+H:\Shubham_Patel_Assignments\TaskData\bin\Debug\net8.0\TaskData.deps.json
+H:\Shubham_Patel_Assignments\TaskData\bin\Debug\net8.0\TaskData.runtimeconfig.json
+H:\Shubham_Patel_Assignments\TaskData\bin\Debug\net8.0\TaskData.dll
+H:\Shubham_Patel_Assignments\TaskData\bin\Debug\net8.0\TaskData.pdb
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\TaskData.csproj.AssemblyReference.cache
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\TaskData.GeneratedMSBuildEditorConfig.editorconfig
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\TaskData.AssemblyInfoInputs.cache
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\TaskData.AssemblyInfo.cs
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\TaskData.csproj.CoreCompileInputs.cache
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\TaskData.dll
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\refint\TaskData.dll
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\TaskData.pdb
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\TaskData.genruntimeconfig.cache
+H:\Shubham_Patel_Assignments\TaskData\obj\Debug\net8.0\ref\TaskData.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\bin\Debug\net8.0\TaskData.deps.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\bin\Debug\net8.0\TaskData.runtimeconfig.json
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\bin\Debug\net8.0\TaskData.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\bin\Debug\net8.0\TaskData.pdb
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\TaskData.csproj.AssemblyReference.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\TaskData.GeneratedMSBuildEditorConfig.editorconfig
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\TaskData.AssemblyInfoInputs.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\TaskData.AssemblyInfo.cs
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\TaskData.csproj.CoreCompileInputs.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\TaskData.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\refint\TaskData.dll
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\TaskData.pdb
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\TaskData.genruntimeconfig.cache
+H:\Shubham_Patel_Assignments\Web api\assignment2\TaskData\obj\Debug\net8.0\ref\TaskData.dll
